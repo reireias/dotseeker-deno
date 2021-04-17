@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/reireias/dotseeker-deno/workflows/main/badge.svg)](https://github.com/reireias/dotseeker-deno/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # dotseeker-deno
 
 [dotseeker](https://github.com/reireias/dotseeker) written by Deno.
