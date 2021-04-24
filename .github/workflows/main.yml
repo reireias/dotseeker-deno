@@ -19,4 +19,4 @@ jobs:
         with:
           deno-version: v1.x
       - run: deno fmt --check --ignore=README.md
-      - run: deno test
+      - run: deno test --unstable
